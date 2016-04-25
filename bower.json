@@ -1,0 +1,20 @@
+{
+  "name": "pluralsight-rotate",
+  "authors": [
+    "joeeames"
+  ],
+  "description": "a simple element rotate library",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
